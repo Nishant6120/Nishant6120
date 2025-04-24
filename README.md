@@ -5,10 +5,10 @@ Full Stack Developer | JavaScript (ES6), C++, C, Java, React.js | Passionate abo
 ### About Me
 
 * 💻 Proficient in JavaScript (ES6+), React.js for dynamic front-end development.
-* 🛠️ Experienced with back-end development concepts and skilled in languages like C++, C, and Java.
+* 🛠️ Experienced with Development concepts and skilled in languages like C++, C, and Java.
 * 🌐 Adept at creating responsive and engaging user interfaces with HTML and CSS.
 * Version control enthusiast, utilizing Git and GitHub for collaborative and efficient development workflows.
-* Familiar with deploying static websites using GitHub Pages.
+* Familiar with deploying static websites using Vercel &  GitHub Pages.
 * Strong academic background in core computer science principles, including Data Structures and Algorithms, Operating Systems, and Database Management Systems.
 
 ### What You'll Find Here
@@ -29,7 +29,7 @@ This profile showcases a range of my projects and contributions, reflecting my s
 
 * **Version Control:** Git, GitHub
 
-* **Deployment:** GitHub Pages
+* **Deployment:** Vercel & GitHub Pages
 
 * **Academic Coursework:** Data Structures and Algorithms, Operating Systems, Database Management Systems
 
