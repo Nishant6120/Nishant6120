@@ -1,7 +1,7 @@
 <h2 align="center">
 Hi there, I am Nishant kumar👋
 
-<br>Full Stack Developer | JavaScript (ES6), C++, C, Java, React.js | Passionate about Building Robust and Scalable Applications :computer:</br>
+<br>Full Stack Developer | Passionate about Building Robust and Scalable Applications :computer:</br>
 </h2>
 
 <h2 align="center">
@@ -50,9 +50,13 @@ Hi there, I am Nishant kumar👋
 
 I'm always open to connecting with other developers, exploring new opportunities, and collaborating on interesting projects. Feel free to reach out!
 
+<h2 align="center">
+    
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-kumar-800207202/)
 [![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant.kumar6120@gmail.com)
 [![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nishant-kumars-projects-2cbca915)
+
+</h2>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
