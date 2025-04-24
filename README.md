@@ -1,6 +1,23 @@
-## Hi there, I am Nishant kumar👋
+<h2 align="center">
+Hi there, I am Nishant kumar👋
 
-Full Stack Developer | JavaScript (ES6), C++, C, Java, React.js | Passionate about Building Robust and Scalable Applications
+<br>Full Stack Developer | JavaScript (ES6), C++, C, Java, React.js | Passionate about Building Robust and Scalable Applications :computer:</br>
+</h2>
+
+<h2 align="center">
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</abc>
+  
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+</h2>
 
 ### About Me
 
@@ -10,16 +27,6 @@ Full Stack Developer | JavaScript (ES6), C++, C, Java, React.js | Passionate abo
 * Version control enthusiast, utilizing Git and GitHub for collaborative and efficient development workflows.
 * Familiar with deploying static websites using Vercel &  GitHub Pages.
 * Strong academic background in core computer science principles, including Data Structures and Algorithms, Operating Systems, and Database Management Systems.
-
-### What You'll Find Here
-
-This profile showcases a range of my projects and contributions, reflecting my skills and passion for software development. You'll find repositories demonstrating:
-
-* Full-stack applications built with React.js and various back-end technologies.
-* Projects showcasing my proficiency in C++, C, and Java.
-* Front-end projects built with HTML, CSS, and JavaScript.
-* Solutions to algorithmic challenges and data structure implementations.
-* Potentially, projects related to Operating Systems or Database Management Systems from my coursework.
 
 ### Technical Skills
 
@@ -37,7 +44,7 @@ This profile showcases a range of my projects and contributions, reflecting my s
 
 ### Currently Exploring
 
-* [Web development (React, Node.js), backend development (next.js, Express.js), mobile development (Android), Data structures and algorithms, cloud technologies (MongoDB, Prisma)].
+* [Backend development (next.js, Express.js), mobile development (Android), Data structures and algorithms, cloud technologies (MongoDB, Prisma)].
 
 ### Let's Connect!
 
@@ -47,4 +54,5 @@ I'm always open to connecting with other developers, exploring new opportunities
 [![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant.kumar6120@gmail.com)
 [![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nishant-kumars-projects-2cbca915)
 
-Thank you for visiting my profile! I'm excited about the possibilities in the world of software development.
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
