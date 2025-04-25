@@ -1,6 +1,8 @@
 <h2 align="center">
-Hi there, I am Nishant kumar👋
+    
+![logo](https://github.com/Nishantkumar22326/Nishantkumar22326/blob/main/github-header-image.png)
 
+Hi there, I am Nishant kumar👋
 <br>Full Stack Developer | Passionate about Building Robust and Scalable Applications :computer:</br>
 </h2>
 
