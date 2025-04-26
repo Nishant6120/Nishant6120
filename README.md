@@ -1,5 +1,4 @@
 <h2 align="center">
-    
 Hi there, I am Nishant kumar👋
 <br>Full Stack Developer | Passionate about Building Robust and Scalable Applications :computer:</br>
 </h2>
@@ -19,6 +18,9 @@ Hi there, I am Nishant kumar👋
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 </h2>
 
@@ -30,20 +32,6 @@ Hi there, I am Nishant kumar👋
 * Version control enthusiast, utilizing Git and GitHub for collaborative and efficient development workflows.
 * Familiar with deploying static websites using Vercel &  GitHub Pages.
 * Strong academic background in core computer science principles, including Data Structures and Algorithms, Operating Systems, and Database Management Systems.
-
-### Technical Skills
-
-* **Languages:** JavaScript (ES6+), C++, C, Java, HTML, CSS
-
-* **Frameworks/Libraries:** React.js
-
-* **Version Control:** Git, GitHub
-
-* **Deployment:** Vercel & GitHub Pages
-
-* **Academic Coursework:** Data Structures and Algorithms, Operating Systems, Database Management Systems
-
-* **Software & Tools:** Linux, Git, GitHub, Visual Studio Code, MS Office
 
 ### Currently Exploring
 
@@ -58,6 +46,7 @@ I'm always open to connecting with other developers, exploring new opportunities
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-kumar-800207202/)
 [![Email](https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishant.kumar6120@gmail.com)
 [![Vercel](https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/nishant-kumars-projects-2cbca915)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=#f1a125)](https://leetcode.com/u/Nishantkumar121/)
 
 </h2>
 
